@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-header h1 .seo {
+header h1 span {
     color: #d9dcd6;
 }
 header div {
@@ -36,11 +36,11 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-a {
+header div ul li a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*hero section*/
 p {
     font-size: 16px;
 }
